@@ -7,3 +7,12 @@ May work on other .all files (sub bottom profiler etc), and should disregard dat
 
 Uses pyall, a python module licensed under Apache License 2.0
 [https://github.com/guardiangeomatics/pyall](https://github.com/guardiangeomatics/pyall)
+
+## Usage
+1. Select a file or folder containing .all-files.
+
+2. Choose output .gpx file.
+
+![A screenshot of the GUI](media/gui.png?raw=true "GUI")
+
+Output will be split into tracks according to filename.
